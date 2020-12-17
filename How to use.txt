@@ -1,0 +1,18 @@
+How to use this tools ?
+=============================
+go chrome : 
+install python 3.8 from ' https://www.python.org/downloads/release/python-380 '
+complet installtion ( PATH IS IMPORTANT )
+=============================
+run cmd
+cd C:\Python38\Scripts
+pip3 install requests
+pip3 install updates
+
+=============================
+thats all enjoy spamming <3
+=============================
+
+DONATE ME :D <3 
+BTC : 1BKT6449VpnK11tvra6SkHa3xTYnP8m6n6
+ETH : 0xf08f1285f8c58a0edae4ae815e6f8637a531780e
